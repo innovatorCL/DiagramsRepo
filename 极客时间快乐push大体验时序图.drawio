@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-23T14:42:26.263Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="OerxsKY4akwm6O-oJg4_" version="15.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-23T14:46:39.240Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="pjarWRZN9rJggyh6Oa2V" version="15.5.8" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1164" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="H-buyMjWP8MUea_8feiy-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.638;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=1.1;entryY=0.822;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-1" source="3nuBFxr9cyL0pnOWT2aG-2" target="3nuBFxr9cyL0pnOWT2aG-2">
+        <mxCell id="H-buyMjWP8MUea_8feiy-16" value="" style="endArrow=blockThin;html=1;rounded=0;exitX=1;exitY=0.638;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=elbowEdgeStyle;elbow=vertical;entryX=1.1;entryY=0.822;entryDx=0;entryDy=0;entryPerimeter=0;endFill=1;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-1" source="3nuBFxr9cyL0pnOWT2aG-2" target="3nuBFxr9cyL0pnOWT2aG-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="234" y="519.0999999999999" as="sourcePoint" />
             <mxPoint x="237" y="578.05" as="targetPoint" />
@@ -21,7 +21,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="H-buyMjWP8MUea_8feiy-17" value="" style="endArrow=classic;html=1;rounded=0;elbow=vertical;exitX=1.1;exitY=0.378;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.9;entryY=0.56;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-1" source="3nuBFxr9cyL0pnOWT2aG-2" target="3nuBFxr9cyL0pnOWT2aG-2">
+        <mxCell id="H-buyMjWP8MUea_8feiy-17" value="" style="endArrow=blockThin;html=1;rounded=0;elbow=vertical;exitX=1.1;exitY=0.378;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.9;entryY=0.56;entryDx=0;entryDy=0;entryPerimeter=0;endFill=1;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-1" source="3nuBFxr9cyL0pnOWT2aG-2" target="3nuBFxr9cyL0pnOWT2aG-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="300" as="sourcePoint" />
             <mxPoint x="330" y="250" as="targetPoint" />
@@ -123,14 +123,14 @@
             <mxPoint x="650" y="583" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H-buyMjWP8MUea_8feiy-23" value="" style="endArrow=classic;html=1;rounded=0;elbow=vertical;entryX=0.1;entryY=0.27;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="H-buyMjWP8MUea_8feiy-11" target="zzKj_0TSJDphC-oFK3b8-4">
+        <mxCell id="H-buyMjWP8MUea_8feiy-23" value="" style="endArrow=blockThin;html=1;rounded=0;elbow=vertical;entryX=0.1;entryY=0.27;entryDx=0;entryDy=0;entryPerimeter=0;endFill=1;" edge="1" parent="1" source="H-buyMjWP8MUea_8feiy-11" target="zzKj_0TSJDphC-oFK3b8-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="670" as="sourcePoint" />
             <mxPoint x="810" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H-buyMjWP8MUea_8feiy-24" value="根据推送策略执行推送任务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="680" y="590" width="160" height="20" as="geometry" />
+        <mxCell id="H-buyMjWP8MUea_8feiy-24" value="biubiubiu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="730" y="590" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H-buyMjWP8MUea_8feiy-25" value="1、这里你可能会有疑问，凭什么都要让用户模块作为控制模块，&lt;br&gt;不能将其他模块作为触发的起点吗？&lt;br&gt;&lt;br&gt;这个正是时序图的有点，当你在流程图或者活动图中只表达流程的&lt;br&gt;时候，并不能直观地看到这个流程是由谁去完成的，而时序图能表&lt;br&gt;达清楚这个层面的信息。所以触发点如果要定为用户模块，那么大&lt;br&gt;家开会讨论同意就可以，否则就要改成其他模块。" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="920" y="55" width="360" height="100" as="geometry" />
