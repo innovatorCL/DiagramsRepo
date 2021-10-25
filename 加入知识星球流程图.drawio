@@ -1,1 +1,156 @@
-<mxfile host="app.diagrams.net" modified="2021-10-25T14:01:16.660Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" version="15.5.8" etag="EDW-GI_4HGTVgY-XYXWn" type="github"><diagram id="IdDaqxUVqJW6XO3v1oYP">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-25T14:31:12.095Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="hk-YbAj7MrUhfRX2neCI" version="15.5.8" type="github">
+  <diagram id="IdDaqxUVqJW6XO3v1oYP" name="Page-1">
+    <mxGraphModel dx="1164" dy="1851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-102" value="加入知识星球流程图" style="swimlane;fillColor=#FFFFFF;shadow=0;swimlaneFillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="32.5" y="-20" width="1187.5" height="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-32" value="" style="group;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="60" width="910" height="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-33" value="登录知识星球App" style="whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="TqSBO6YJyonybrVp6Cjr-32">
+          <mxGeometry x="140" y="110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-35" value="" style="ellipse;fillColor=#000000;strokeColor=none;" vertex="1" parent="TqSBO6YJyonybrVp6Cjr-32">
+          <mxGeometry x="185" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-36" value="" style="html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=blockThin;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="TqSBO6YJyonybrVp6Cjr-32" source="TqSBO6YJyonybrVp6Cjr-35" target="TqSBO6YJyonybrVp6Cjr-33">
+          <mxGeometry x="-21" y="-40" as="geometry">
+            <mxPoint x="210" y="90" as="sourcePoint" />
+            <mxPoint x="390" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-64" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;" edge="1" parent="TqSBO6YJyonybrVp6Cjr-32" source="TqSBO6YJyonybrVp6Cjr-37" target="TqSBO6YJyonybrVp6Cjr-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-37" value="在搜索栏输入关键字，点击搜索" style="whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="TqSBO6YJyonybrVp6Cjr-32">
+          <mxGeometry x="140" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-38" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;endArrow=blockThin;endFill=1;" edge="1" parent="TqSBO6YJyonybrVp6Cjr-32" source="TqSBO6YJyonybrVp6Cjr-33" target="TqSBO6YJyonybrVp6Cjr-37">
+          <mxGeometry x="-21" y="-40" as="geometry" />
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-39" value="点击搜索结果任一星球" style="whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="TqSBO6YJyonybrVp6Cjr-32">
+          <mxGeometry x="140" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-41" value="&lt;div&gt;这里作为前置条件，默认是成功的，不考虑登录失败的情况&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="TqSBO6YJyonybrVp6Cjr-32">
+          <mxGeometry x="300" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-42" value="" style="endArrow=none;dashed=1;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="TqSBO6YJyonybrVp6Cjr-32" source="TqSBO6YJyonybrVp6Cjr-33" target="TqSBO6YJyonybrVp6Cjr-41">
+          <mxGeometry x="-21" y="-40" width="50" height="50" as="geometry">
+            <mxPoint x="250" y="120" as="sourcePoint" />
+            <mxPoint x="300" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-45" value="展示星球资料页" style="whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="TqSBO6YJyonybrVp6Cjr-32">
+          <mxGeometry x="140" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-46" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;strokeWidth=1;" edge="1" parent="TqSBO6YJyonybrVp6Cjr-32" source="TqSBO6YJyonybrVp6Cjr-39" target="TqSBO6YJyonybrVp6Cjr-45">
+          <mxGeometry x="-21" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-72" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;" edge="1" parent="TqSBO6YJyonybrVp6Cjr-32" source="TqSBO6YJyonybrVp6Cjr-48" target="TqSBO6YJyonybrVp6Cjr-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-48" value="点击加入按钮" style="whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="TqSBO6YJyonybrVp6Cjr-32">
+          <mxGeometry x="140" y="620" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-49" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;strokeWidth=1;" edge="1" parent="TqSBO6YJyonybrVp6Cjr-32" source="TqSBO6YJyonybrVp6Cjr-45" target="TqSBO6YJyonybrVp6Cjr-48">
+          <mxGeometry x="-21" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-60" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;strokeWidth=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;rounded=0;" edge="1" parent="TqSBO6YJyonybrVp6Cjr-32" target="TqSBO6YJyonybrVp6Cjr-61" source="TqSBO6YJyonybrVp6Cjr-63">
+          <mxGeometry x="-21" y="-40" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="790" />
+              <mxPoint x="550" y="620" />
+            </Array>
+            <mxPoint x="460" y="870" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-61" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="TqSBO6YJyonybrVp6Cjr-32">
+          <mxGeometry x="185" y="1060" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-66" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;" edge="1" parent="TqSBO6YJyonybrVp6Cjr-32" source="TqSBO6YJyonybrVp6Cjr-63" target="TqSBO6YJyonybrVp6Cjr-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-63" value="" style="rhombus;" vertex="1" parent="TqSBO6YJyonybrVp6Cjr-32">
+          <mxGeometry x="185" y="310" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-65" value="搜索结果为空？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TqSBO6YJyonybrVp6Cjr-32">
+          <mxGeometry x="110" y="280" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-67" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TqSBO6YJyonybrVp6Cjr-32">
+          <mxGeometry x="160" y="360" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-68" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TqSBO6YJyonybrVp6Cjr-32">
+          <mxGeometry x="230" y="300" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-75" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;" edge="1" parent="TqSBO6YJyonybrVp6Cjr-32" source="TqSBO6YJyonybrVp6Cjr-71" target="TqSBO6YJyonybrVp6Cjr-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-88" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;" edge="1" parent="TqSBO6YJyonybrVp6Cjr-32" source="TqSBO6YJyonybrVp6Cjr-71" target="TqSBO6YJyonybrVp6Cjr-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-71" value="" style="rhombus;" vertex="1" parent="TqSBO6YJyonybrVp6Cjr-32">
+          <mxGeometry x="185" y="720" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-73" value="要付费加入？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TqSBO6YJyonybrVp6Cjr-32">
+          <mxGeometry x="120" y="690" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-79" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;" edge="1" parent="TqSBO6YJyonybrVp6Cjr-32" source="TqSBO6YJyonybrVp6Cjr-74" target="TqSBO6YJyonybrVp6Cjr-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-74" value="付费" style="whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="TqSBO6YJyonybrVp6Cjr-32">
+          <mxGeometry x="310" y="715" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-76" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TqSBO6YJyonybrVp6Cjr-32">
+          <mxGeometry x="230" y="710" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-93" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;rounded=0;" edge="1" parent="TqSBO6YJyonybrVp6Cjr-32" source="TqSBO6YJyonybrVp6Cjr-78" target="TqSBO6YJyonybrVp6Cjr-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-78" value="" style="rhombus;" vertex="1" parent="TqSBO6YJyonybrVp6Cjr-32">
+          <mxGeometry x="355" y="820" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-82" value="付费成功？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TqSBO6YJyonybrVp6Cjr-32">
+          <mxGeometry x="300" y="790" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-90" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=1;" edge="1" parent="TqSBO6YJyonybrVp6Cjr-32" source="TqSBO6YJyonybrVp6Cjr-87" target="TqSBO6YJyonybrVp6Cjr-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-87" value="加入星球成功" style="whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="TqSBO6YJyonybrVp6Cjr-32">
+          <mxGeometry x="140" y="900" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-89" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TqSBO6YJyonybrVp6Cjr-32">
+          <mxGeometry x="165" y="770" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-85" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TqSBO6YJyonybrVp6Cjr-32">
+          <mxGeometry x="330" y="870" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-92" style="edgeStyle=elbowEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=blockThin;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;rounded=0;" edge="1" parent="1" source="TqSBO6YJyonybrVp6Cjr-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="980" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-94" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="545" y="870" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-96" style="orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="TqSBO6YJyonybrVp6Cjr-95">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TqSBO6YJyonybrVp6Cjr-95" value="&lt;div&gt;付费失败应该返回星球资料页，但是这里的流程感觉怪怪的？？？&lt;/div&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="827" y="680" width="270" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
