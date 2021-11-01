@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T14:56:57.781Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="WDG7F9Bs5deFz_kU3H6k" version="15.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-01T14:59:34.497Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="LJJ8xq2n0pugjS4X3-qv" version="15.5.8" type="github">
   <diagram id="OMkTSygLCqqMki3EPGK_" name="Page-1">
     <mxGraphModel dx="1991" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,6 +14,9 @@
           <mxGeometry x="-411.5" y="555" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2hQIRXdBvStlvisrzFkW-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;endArrow=none;endFill=0;" edge="1" parent="1" source="2hQIRXdBvStlvisrzFkW-4" target="2hQIRXdBvStlvisrzFkW-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2hQIRXdBvStlvisrzFkW-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;endArrow=none;endFill=0;" edge="1" parent="1" source="2hQIRXdBvStlvisrzFkW-4" target="2hQIRXdBvStlvisrzFkW-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2hQIRXdBvStlvisrzFkW-4" value="视频号" style="fontStyle=1;fontSize=18;align=center;" vertex="1" parent="1">
@@ -67,8 +70,8 @@
         <mxCell id="2hQIRXdBvStlvisrzFkW-16" value="0 .. n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-180" y="540" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2hQIRXdBvStlvisrzFkW-17" value="1. 视频号是否可以脱离微信号独立存在？&lt;br&gt;2. 视频号是够可以对应多个微信号？" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-470" y="160" width="340" height="50" as="geometry" />
+        <mxCell id="2hQIRXdBvStlvisrzFkW-17" value="1. 视频号是否可以脱离微信号独立存在？&lt;br&gt;2. 视频号是够可以对应多个微信号？&lt;br&gt;3. 当时上课时，视频号不能点赞，只能用微信号身份点赞" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="150" width="470" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2hQIRXdBvStlvisrzFkW-18" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-265" y="545" width="30" height="30" as="geometry" />
@@ -103,7 +106,7 @@
         <mxCell id="2hQIRXdBvStlvisrzFkW-34" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-340" y="585" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2hQIRXdBvStlvisrzFkW-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="2hQIRXdBvStlvisrzFkW-36" target="2hQIRXdBvStlvisrzFkW-38">
+        <mxCell id="2hQIRXdBvStlvisrzFkW-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="2hQIRXdBvStlvisrzFkW-36" target="2hQIRXdBvStlvisrzFkW-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2hQIRXdBvStlvisrzFkW-36" value="0 .. n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
@@ -113,7 +116,13 @@
           <mxGeometry x="-375" y="585" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2hQIRXdBvStlvisrzFkW-38" value="一个微信号可以发出很多个赞，但是对于同一个视频内容最多只能点一个赞" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-325" y="1100" width="350" height="90" as="geometry" />
+          <mxGeometry x="-470" y="1090" width="350" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2hQIRXdBvStlvisrzFkW-42" value="0 .. n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="680" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2hQIRXdBvStlvisrzFkW-43" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-45" y="585" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
